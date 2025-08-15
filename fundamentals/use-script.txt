@@ -1,0 +1,10 @@
+/**
+ * The "use script" directive used at the top of the script so the js works to the latest way.
+ * Once used, browser settings will not go back to prev versions
+ 
+ * Should it be used? 
+ * No not always as modern js code is written in classes and modules so it always uses the latest rules 
+ */
+
+
+
